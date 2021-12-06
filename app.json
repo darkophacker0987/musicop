@@ -6,7 +6,7 @@
     "repository": "https://github.com/HellBoy-OP/Music",
     "stack": "container",
     "env": {
-        "HELLBOT_SESSION": {
+        "SESSION_NAME": {
             "description": "Paste pyrogram string session."
         },
         "BOT_TOKEN": {
