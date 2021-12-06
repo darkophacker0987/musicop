@@ -69,7 +69,7 @@ async def start_(client: Client, message: Message):
     )
 
 
-@Client.on_message(commandpro(["/start", "/alive"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["/startop", "/alive"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     gid = message.chat.id
     gidtype = message.chat.type
