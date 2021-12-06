@@ -17,7 +17,7 @@ hellbot = Client(
 
 # User Client
 client = Client(
-    HELLBOT_SESSION,
+    SESSION_NAME,
     api_id=API_ID,
     api_hash=API_HASH,
     plugins={'root': 'hellbot.plugins'},
