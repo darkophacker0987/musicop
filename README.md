@@ -1,5 +1,6 @@
 # Music
 A telegram voice/video chat ( vc ) player written in python using Pyrogram Bot Library.
-# Deploy
-# href="https://heroku.com/deploy?template=https://github.com/shivam-op/Music">
-  
+
+#Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkophacker0987/musicop)
